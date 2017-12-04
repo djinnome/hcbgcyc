@@ -1,0 +1,3110 @@
+;;;      ---  Parse Results for Ajellomyces capsulatus G186AR  ---
+;;;
+;;; This report summarizes the findings of the PathoLogic parser for
+;;; the annotation files for all new genetic elements.  Through
+;;; inspection of this report, the user can tell whether features of major 
+;;; importance were not recognized, possibly due to syntax errors or other
+;;; problems in the annotation files.
+;;;
+;;; If you want to change annotation file(s) to improve their parsability, 
+;;; update the files, reinitialize the KB, and re-run the Build.  If you want
+;;; to avoid having to reinitialize in the future, use the Trial Parse 
+;;; command until you are satisfied with the parse results, and only then
+;;; Build.
+
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631201.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631201.pf
+gene-IDs :                       415
+gene-name :                      415
+gene-startbase :                 415
+gene-endbase :                   415
+gene-product-type :              415
+  gene-Proteins :                  415
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   65
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                79
+  genes with an EC number :         65
+  genes with >1 EC numbers :         8
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            415
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631221.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631221.pf
+gene-IDs :                         2
+gene-name :                        2
+gene-startbase :                   2
+gene-endbase :                     2
+gene-product-type :                2
+  gene-Proteins :                    2
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              2
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631269.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631269.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631272.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631272.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631234.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631234.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631202.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631202.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631248.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631248.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631223.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631223.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631224.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631224.pf
+gene-IDs :                       440
+gene-name :                      440
+gene-startbase :                 440
+gene-endbase :                   440
+gene-product-type :              440
+  gene-Proteins :                  440
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   59
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                67
+  genes with an EC number :         59
+  genes with >1 EC numbers :         7
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            440
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631235.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631235.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631198.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631198.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631214.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631214.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631207.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631207.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631258.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631258.pf
+gene-IDs :                         3
+gene-name :                        3
+gene-startbase :                   3
+gene-endbase :                     3
+gene-product-type :                3
+  gene-Proteins :                    3
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              3
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631216.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631216.pf
+gene-IDs :                         1
+gene-name :                        1
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 1
+  genes with an EC number :          1
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              1
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631190.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631190.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631270.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631270.pf
+gene-IDs :                         1
+gene-name :                        1
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              1
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631193.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631193.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631236.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631236.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631233.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631233.pf
+gene-IDs :                       508
+gene-name :                      508
+gene-startbase :                 508
+gene-endbase :                   508
+gene-product-type :              508
+  gene-Proteins :                  508
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   82
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                93
+  genes with an EC number :         82
+  genes with >1 EC numbers :         9
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            508
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631266.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631266.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631204.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631204.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631241.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631241.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631259.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631259.pf
+gene-IDs :                         2
+gene-name :                        2
+gene-startbase :                   2
+gene-endbase :                     2
+gene-product-type :                2
+  gene-Proteins :                    2
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              2
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631244.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631244.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631191.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631191.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631238.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631238.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631256.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631256.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631222.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631222.pf
+gene-IDs :                         2
+gene-name :                        2
+gene-startbase :                   2
+gene-endbase :                     2
+gene-product-type :                2
+  gene-Proteins :                    2
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 1
+  genes with an EC number :          1
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              2
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631260.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631260.pf
+gene-IDs :                         7
+gene-name :                        7
+gene-startbase :                   7
+gene-endbase :                     7
+gene-product-type :                7
+  gene-Proteins :                    7
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    2
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 2
+  genes with an EC number :          2
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              7
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631196.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631196.pf
+gene-IDs :                       588
+gene-name :                      588
+gene-startbase :                 588
+gene-endbase :                   588
+gene-product-type :              588
+  gene-Proteins :                  588
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   68
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                83
+  genes with an EC number :         68
+  genes with >1 EC numbers :        10
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            588
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631219.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631219.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631264.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631264.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631243.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631243.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631239.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631239.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631188.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631188.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631209.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631209.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631268.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631268.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631217.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631217.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631251.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631251.pf
+gene-IDs :                         1
+gene-name :                        1
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              1
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631227.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631227.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631228.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631228.pf
+gene-IDs :                       753
+gene-name :                      753
+gene-startbase :                 753
+gene-endbase :                   753
+gene-product-type :              753
+  gene-Proteins :                  753
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  117
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               130
+  genes with an EC number :        117
+  genes with >1 EC numbers :        12
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            753
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631199.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631199.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631208.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631208.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631215.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631215.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631230.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631230.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631197.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631197.pf
+gene-IDs :                        10
+gene-name :                       10
+gene-startbase :                  10
+gene-endbase :                    10
+gene-product-type :               10
+  gene-Proteins :                   10
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    3
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 3
+  genes with an EC number :          3
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :             10
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631267.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631267.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631232.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631232.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631254.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631254.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631262.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631262.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631245.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631245.pf
+gene-IDs :                         1
+gene-name :                        1
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              1
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631205.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631205.pf
+gene-IDs :                       837
+gene-name :                      837
+gene-startbase :                 837
+gene-endbase :                   837
+gene-product-type :              837
+  gene-Proteins :                  837
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  108
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               121
+  genes with an EC number :        108
+  genes with >1 EC numbers :        10
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            837
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631255.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631255.pf
+gene-IDs :                        11
+gene-name :                       11
+gene-startbase :                  11
+gene-endbase :                    11
+gene-product-type :               11
+  gene-Proteins :                   11
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :             11
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631194.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631194.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631273.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631273.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631226.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631226.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631211.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631211.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631213.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631213.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631246.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631246.pf
+gene-IDs :                         1
+gene-name :                        1
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              1
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631189.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631189.pf
+gene-IDs :                         3
+gene-name :                        3
+gene-startbase :                   3
+gene-endbase :                     3
+gene-product-type :                3
+  gene-Proteins :                    3
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              3
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631263.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631263.pf
+gene-IDs :                         1
+gene-name :                        1
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              1
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631257.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631257.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631210.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631210.pf
+gene-IDs :                       915
+gene-name :                      915
+gene-startbase :                 915
+gene-endbase :                   915
+gene-product-type :              915
+  gene-Proteins :                  915
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  123
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               137
+  genes with an EC number :        123
+  genes with >1 EC numbers :        14
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            915
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631265.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631265.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631261.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631261.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631237.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631237.pf
+gene-IDs :                         1
+gene-name :                        1
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              1
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631200.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631200.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631206.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631206.pf
+gene-IDs :                         1
+gene-name :                        1
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              1
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631240.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631240.pf
+gene-IDs :                         1
+gene-name :                        1
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              1
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631212.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631212.pf
+gene-IDs :                         1
+gene-name :                        1
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              1
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631229.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631229.pf
+gene-IDs :                        43
+gene-name :                       43
+gene-startbase :                  43
+gene-endbase :                    43
+gene-product-type :               43
+  gene-Proteins :                   43
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    4
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 4
+  genes with an EC number :          4
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :             43
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631225.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631225.pf
+gene-IDs :                        78
+gene-name :                       78
+gene-startbase :                  78
+gene-endbase :                    78
+gene-product-type :               78
+  gene-Proteins :                   78
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   17
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                23
+  genes with an EC number :         17
+  genes with >1 EC numbers :         5
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :             78
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631220.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631220.pf
+gene-IDs :                        86
+gene-name :                       86
+gene-startbase :                  86
+gene-endbase :                    86
+gene-product-type :               86
+  gene-Proteins :                   86
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   12
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                14
+  genes with an EC number :         12
+  genes with >1 EC numbers :         1
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :             86
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631252.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631252.pf
+gene-IDs :                       977
+gene-name :                      977
+gene-startbase :                 977
+gene-endbase :                   977
+gene-product-type :              977
+  gene-Proteins :                  977
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  139
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               164
+  genes with an EC number :        139
+  genes with >1 EC numbers :        21
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            977
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631195.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631195.pf
+gene-IDs :                        84
+gene-name :                       84
+gene-startbase :                  84
+gene-endbase :                    84
+gene-product-type :               84
+  gene-Proteins :                   84
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   16
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                16
+  genes with an EC number :         16
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :             84
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631247.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631247.pf
+gene-IDs :                       123
+gene-name :                      123
+gene-startbase :                 123
+gene-endbase :                   123
+gene-product-type :              123
+  gene-Proteins :                  123
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   17
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                19
+  genes with an EC number :         17
+  genes with >1 EC numbers :         2
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            123
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631242.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631242.pf
+gene-IDs :                       140
+gene-name :                      140
+gene-startbase :                 140
+gene-endbase :                   140
+gene-product-type :              140
+  gene-Proteins :                  140
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   20
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                26
+  genes with an EC number :         20
+  genes with >1 EC numbers :         5
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            140
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631271.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631271.pf
+gene-IDs :                       168
+gene-name :                      168
+gene-startbase :                 168
+gene-endbase :                   168
+gene-product-type :              168
+  gene-Proteins :                  168
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   24
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                29
+  genes with an EC number :         24
+  genes with >1 EC numbers :         5
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            168
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631192.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631192.pf
+gene-IDs :                       224
+gene-name :                      224
+gene-startbase :                 224
+gene-endbase :                   224
+gene-product-type :              224
+  gene-Proteins :                  224
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   38
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                49
+  genes with an EC number :         38
+  genes with >1 EC numbers :         5
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            224
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631231.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631231.pf
+gene-IDs :                       312
+gene-name :                      312
+gene-startbase :                 312
+gene-endbase :                   312
+gene-product-type :              312
+  gene-Proteins :                  312
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   43
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                49
+  genes with an EC number :         43
+  genes with >1 EC numbers :         6
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            312
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631253.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631253.pf
+gene-IDs :                       278
+gene-name :                      278
+gene-startbase :                 278
+gene-endbase :                   278
+gene-product-type :              278
+  gene-Proteins :                  278
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   36
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                46
+  genes with an EC number :         36
+  genes with >1 EC numbers :         6
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            278
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631203.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631203.pf
+gene-IDs :                       311
+gene-name :                      311
+gene-startbase :                 311
+gene-endbase :                   311
+gene-product-type :              311
+  gene-Proteins :                  311
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   32
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                33
+  genes with an EC number :         32
+  genes with >1 EC numbers :         1
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            311
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631250.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631250.pf
+gene-IDs :                       273
+gene-name :                      273
+gene-startbase :                 273
+gene-endbase :                   273
+gene-product-type :              273
+  gene-Proteins :                  273
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   27
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                30
+  genes with an EC number :         27
+  genes with >1 EC numbers :         2
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            273
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631218.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631218.pf
+gene-IDs :                       417
+gene-name :                      417
+gene-startbase :                 417
+gene-endbase :                   417
+gene-product-type :              417
+  gene-Proteins :                  417
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   60
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                65
+  genes with an EC number :         60
+  genes with >1 EC numbers :         5
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :            417
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631249.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/neurospora/ptools-fungi2/ptools-local/pgdbs/user/hcbgcyc/1.0/input/7000000098631249.pf
+gene-IDs :                      1213
+gene-name :                     1213
+gene-startbase :                1213
+gene-endbase :                  1213
+gene-product-type :             1213
+  gene-Proteins :                 1213
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  173
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               194
+  genes with an EC number :        173
+  genes with >1 EC numbers :        18
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :           1213
